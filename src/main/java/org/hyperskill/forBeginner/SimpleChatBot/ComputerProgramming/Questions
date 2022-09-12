@@ -1,6 +1,5 @@
 Sort the algorithm actions for a calculator.
-Report a typo
-Put the items in the correct order
+
     open the calculator
     write input data
     perform calculation
@@ -9,63 +8,40 @@ Put the items in the correct order
 Back-end language
 Which languages could you use in a situation when you are working on the implementation of a database connection from
 your web service?
-Select one or more options from the list
-+    PHP
-     CSS
-+    Python
-+    Java
+
+PHP
+Python
+Java
 ========================================================================================================================
 Statements about programming
 Which of these statements about programming are correct?
-Select one or more options from the list
-    The more sophisticated the task, the harder to learn language for it.
-    You need to learn every programming language to be good programmer.
-+   JavaScript is used in a field of front-end development.
-+   It is better to learn programming languages needed for your field of work
+
+JavaScript is used in a field of front-end development.
+It is better to learn programming languages needed for your field of work
 ========================================================================================================================
 Programming language
 Which of the following is not a programming language?
-Report a typo
-Select one option from the list
-    C++
-    Python
-    Java
-+   S--
+
+S--
 ========================================================================================================================
 True programmer
 What do you absolutely need to become a programmer?
-Report a typo
-Select one option from the list
-    To know at least three foreign languages
-    To hack a website
-+   To study and practice a lot
-    To buy a very expensive computer
+
+To study and practice a lot
 ========================================================================================================================
 Why are programming languages needed?
 We need programming languages because they can help us
-Report a typo
-Select one option from the list
-    to learn math
-+   to write the course of actions understandable for the machine
-    to understand how a computer works
-    to better understand foreign languages
+
+to write the course of actions understandable for the machine
 ========================================================================================================================
 A lot of languages
 What is the main reason why we have so many programming languages?
-Report a typo
-Select one option from the list
-    For the same reason we have many regular languages
-    Because each computer can work with only one programming language
-+   Each programming language is suited better for some particular set of problems
-    Because it's fun, obviously!
+
+Each programming language is suited better for some particular set of problems
 ========================================================================================================================
 What is a program code?
-Report a typo
-Select one option from the list
-+   a set of instructions for the computer
-    a language programmers speak
-    a technical task of the customer
-    a system help file
+
+a set of instructions for the computer
 ========================================================================================================================
 Missing action
 A programmer wrote several variants of an algorithm for the computer to perform an automatic search in the browser:
@@ -74,21 +50,13 @@ turn on the internet
 write a request
 click on the search button
 But the programmer forgot about one important step in this algorithm. What action is missing?
-Report a typo
-Select one option from the list
-    download the search database
-    upload the system
-    open the social media
-+   open the browse
+
+open the browse
 ========================================================================================================================
 Learning front-end development
 Which set of languages is right for learning front-end development?
-Report a typo
-Select one option from the list
-+   HTML, CSS, and JavaScript
-    Swift, Java, C#
-    Java, HTML, CSS
-    PHP, Python, Java
+
+HTML, CSS, and JavaScript
 ========================================================================================================================
 Right algorithm
 A developer wrote an algorithm for a program that automatically downloads the installer for some other program.
@@ -113,8 +81,6 @@ choose Linux
 start installation
 Report a typo
 Select one option from the list
-    D
-+   A
-    C
-    B
+
+A
 ========================================================================================================================

@@ -1,0 +1,55 @@
+First name
+What was Java called in the beginning?
+
+oak
+========================================================================================================================
+History of Java
+When was the Java language project initiated?
+
+1991
+========================================================================================================================
+TIOBE
+What is the TIOBE index?
+
+A programming language popularity index
+========================================================================================================================
+Applications of Java
+Select the correct answer about what java can be used for.
+
+Financial services industry
+Computer games
+Medical applications
+Android smartphones
+========================================================================================================================
+Owner of Java
+Who is the owner of Java?
+
+Oracle Corporation
+========================================================================================================================
+WORA
+What does WORA in Java stand for?
+
+Write Once Run Anywhere
+========================================================================================================================
+Memory cleaning
+Which of the following is true about memory cleaning mechanisms in Java?
+
+Java has a mechanism that cleans memory automatically.
+========================================================================================================================
+Java features
+Match a Java feature with a suitable description.
+
+Java is platform-independent ---> We can run the same Java program on multiple platforms without changes.
+Java has a garbage collector ---> It automatically cleans memory from unused objects during runtime
+Java supports numerous programming paradigms ---> Such as generic programming, concurrent programming, functional -
+- programming, etc.
+========================================================================================================================
+Running a program on different platforms
+Imagine this situation: you need to write a Java application to analyze data about the moons of Jupiter.
+The users of this application may run it on different operating systems. Some of the users prefer Linux,
+others use MacOS, and for some, good old Windows is the best.
+How many versions of the application do you need to write to satisfy all users?
+
+1 version
+========================================================================================================================
+
