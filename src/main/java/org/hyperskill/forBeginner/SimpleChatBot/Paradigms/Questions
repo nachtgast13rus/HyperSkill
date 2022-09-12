@@ -1,0 +1,64 @@
+Match definitions
+What does a program look like when it is written in the following paradigms?
+Report a typo
+Match the items from left and right columns
+Functional ---> a program is a computation of the functions values
+Procedural ---> a program is a list of step-by-step actions
+OOP        ---> a program is written as a collection of classes
+Logic      ---> a program is a set of logical sentences that express facts and rules about a certain problem
+========================================================================================================================
+Object methods
+The programmer models the car entity, which is an object of the Car class. Which of the following will be car methods?
+Report a typo
+Select one or more options from the list
+    transmission
++   open the door
+    engine
++   change speed
+========================================================================================================================
+The declarative paradigm types
+Which types of programming are included in the declarative paradigm?
+Report a typo
+Select one or more options from the list
++   Logic
+    OOP
+    Procedural
++   Database
++   Functional
+========================================================================================================================
+Programming paradigms
+What are the two main programming paradigms?
+Report a typo
+Select one or more options from the list
+    exclamatory
+    interrogative
++   declarative
++   imperative
+========================================================================================================================
+The imperative paradigm
+The imperative paradigm is based on
+Report a typo
+    Select one option from the list
+    predicting results from available statistics
+    general knowledge database
+    logical functions and statements
++   step by step instructions that change the data sequentially
+========================================================================================================================
+Basic statements of logic programming
+Match basic statements of logic programming with their values.
+Report a typo
+Match the items from left and right columns
+fact ---> A perch is a fish.
+rule ---> All fish can swim.
+query ---> Can a perch swim?
+========================================================================================================================
+Choose the paradigm
+Programs written in this paradigm sequentially change the input data according to given instructions.
+What is the name of this paradigm?
+Report a typo
+Select one option from the list
+    Parallel
+    Database
++   Procedural
+    Functional
+========================================================================================================================
