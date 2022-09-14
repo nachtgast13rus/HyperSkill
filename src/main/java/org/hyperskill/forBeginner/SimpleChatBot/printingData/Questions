@@ -1,0 +1,66 @@
+1. What does the code print
+
+b
+========================================================================================================================
+2. From 0 to 4
+
+import java.util.stream.IntStream;
+
+class Main {
+    public static void main(String[] args) {
+        IntStream.range(0, 5).forEach(System.out::println);
+    }
+}
+========================================================================================================================
+3. First, second, third
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("first");
+        System.out.println("second");
+        System.out.println("third");
+
+    }
+}
+========================================================================================================================
+4. Printing a magic letter
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("********");
+        System.out.print("      **\n".repeat(3));
+        System.out.print("**    **\n".repeat(2));
+        System.out.println(" *******");
+    }
+}
+========================================================================================================================
+5. The result of a Tic-Tac-Toe game
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("O X X\nO X O\nX O X");
+    }
+}
+
+========================================================================================================================
+6. Stars
+
+d
+========================================================================================================================
+7. Digits from 0 to 9 backwards
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("9 8 7 6 5 4 3 2 1 0");
+    }
+}
+
+========================================================================================================================
+8. We need to learn Java
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("WE NEED TO\n\nLEARN JAVA\n\nAS QUICKLY AS POSSIBLE");
+    }
+}
+========================================================================================================================
