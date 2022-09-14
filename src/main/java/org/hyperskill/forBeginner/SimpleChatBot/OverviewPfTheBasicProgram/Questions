@@ -1,0 +1,64 @@
+1. Find a word that is not a keyword
+
+Main
+========================================================================================================================
+2. Keywords
+
+public
+static
+class
+========================================================================================================================
+3. Find a keyword
+
+class
+========================================================================================================================
+4. Match terms and their definitions
+
+keyword ---> is a word that has a special meaning in the programming language
+name ---> is a word written by a programmer to identify something in a program
+statement ---> is a single action terminated by semi-colon
+comment ---> is text that is not part of the program
+syntax ---> is a set of rules that defines the combinations of symbols that are considered to be a correctly structured program
+========================================================================================================================
+5. Cats are robots
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Cats are robots!");
+    }
+}
+========================================================================================================================
+6. Hello, Java
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, Java!");
+    }
+}
+========================================================================================================================
+7. The Hello World program
+
+class Main {
+    public static void main(String...args) {
+        System.out.println("Hello, World!");
+    }
+}
+========================================================================================================================
+8. Statements
+
+To display a string we pass it to System.out.println(...).
+A class containing the main method can have any valid name (Main, App, Demo and so on).
+========================================================================================================================
+9. Construct a program
+
+class Program {
+ public static void main(String[] args) {
+  System.out.println("Hello, Java");
+ }
+}
+========================================================================================================================
+10. Elements of a program
+
+class is a keyword
+HelloWorldProgram is a name
+========================================================================================================================
