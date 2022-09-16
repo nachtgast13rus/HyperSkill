@@ -1,6 +1,8 @@
 package javaCore.collections.myCollections.structure;
 
+import java.util.Arrays;
 import java.util.Iterator;
+import java.util.Objects;
 
 /**
  * Структура на основе массива
@@ -9,6 +11,21 @@ import java.util.Iterator;
 public class Structure<T> implements Iterable<T> {
     // Поле массив объектов
     private T[] struct;
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Structure)) return false;
+        Structure<?> structure = (Structure<?>) o;
+        return getSize() == structure.getSize() && Arrays.equals(struct, structure.struct);
+    }
+
+    @Override
+    public int hashCode() {
+        int result = Objects.hash(getSize());
+        result = 31 * result + Arrays.hashCode(struct);
+        return result;
+    }
 
     // Размер массива
     private int size;
