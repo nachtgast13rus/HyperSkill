@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class FileRunner {
     public static void main(String[] args) throws IOException {
-        File file = new File("src/main/resources/test.txt");
+        File file = new File("src/Main/resources/test.txt");
 
 //        file.createNewFile();
 //        System.out.println(file.exists());
@@ -20,7 +20,7 @@ public class FileRunner {
         System.out.println(file.canRead());
         System.out.println(file.canWrite());
 
-        File dir = new File("/src/main/resources/testDir/");
+        File dir = new File("/src/Main/resources/testDir/");
         dir.mkdir();
         dir.list();
         dir.createNewFile();

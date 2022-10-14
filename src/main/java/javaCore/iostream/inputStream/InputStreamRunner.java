@@ -7,8 +7,8 @@ import java.nio.file.Path;
 
 public class InputStreamRunner {
     public static void main(String[] args) throws IOException {
-//        File file = new File(String.join(File.separator, "src", "main", "resources", "test.txt"));
-        File file = Path.of("src", "main", "resources", "test.txt").toFile();
+//        File file = new File(String.join(File.separator, "src", "Main", "resources", "test.txt"));
+        File file = Path.of("src", "Main", "resources", "test.txt").toFile();
         try (FileInputStream inputStream = new FileInputStream(file)) {
 //            byte[] bytes = inputStream.readAllBytes();
 //            String stringValue = new String(bytes);
